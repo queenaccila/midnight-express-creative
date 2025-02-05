@@ -8,3 +8,6 @@ In this repository, there should be different folders to categorize the differen
 - Story
 - Dialogue Scripts
 - Zine Guides
+
+Document files should typically be done in __**markdown (.md)**__ files. This is for easy readability on GitHub and simplicity for creating any documentation.
+You can check out a markdown guide here for easy guidance.
