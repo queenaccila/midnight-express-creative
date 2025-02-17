@@ -47,7 +47,7 @@
 
 **Pre-Boss Scene**
 - Mina sees Tux in a huge steam room, wondering why he was in there. She follows him in, and the giant door behind her immediately shuts
-- The Engineer is ready to test her abilities, to see if she is worthy of the abilities Tux claims she has
+- The Engineer is ready to test her abilities, to see if she is worthy of the abilities Tux claims she has.
 
 ### Level 5
 
