@@ -16,7 +16,7 @@
 **Post-Boss Scene**
 - Mina gets access to the ticket logs, where she finds out her ticket had been manually issued, unsure of who did it
 - It jumps to a new scene, where The Conductor can see Mina through faint traces of the Midnight Express insignia throughout the train.
-- 
+- His star eyes glow in the darker room of the front train car interior
 
 ### Level 3
 **Before Level**
