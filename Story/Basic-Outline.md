@@ -38,17 +38,26 @@
 **Before Level**
 - To transition into this level, Mina is passed out and injured
 - Mina sees a blurry figure looming over Tux, and a faint voice asking Tux about who this girl is
-- The faint voice tells Tux to guide her to him once she's all patched up
+- The faint voice tells Tux to get rid of her despite Tux begging him to keep her alive
+- The Engineer warns Tux to get rid of her, or he's going to do it himself
 - She passes out and sees faint red eyes glowing (hinting it's The Engineer)
 
 **Throughout Level**
-- Mina follows Tux through the underground system, wondering where he was going and if he was trying to tell her something
+- Mina follows Tux through the underground system, wondering where he was going and if he was trying to hide her from something
 - She notices the insignias are purposely covered up (The Engineer doesn't want The Conductor's eyes in his personal space)
 
 **Pre-Boss Scene**
-- Mina sees Tux in a huge steam room, wondering why he was in there. She follows him in, and the giant door behind her immediately shuts
-- The Engineer is ready to test her abilities, to see if she is worthy of the abilities Tux claims she has.
+- Mina is following Tux as they're navigating through the large under-train system
+- She couldn't help but notice them passing by a giant room that looked like the main underground workings of the train, and it made her want to go inside, which was away from Tux
+- Tux didn't notice her getting left behind right away, and only noticed when he turned around, expecting her to be near her
+- When Tux sees Mina walking into the giant steam room, he panicked, and rushed after her
+- Mina enters the giant steam room, curious of what she was seeing, and Tux tried to stop her and push her to leave.
+- Mina and Tux are about to leave the room, but the giant door shuts them in
+- The Engineer appears, getting furious at Tux for not getting rid of her like he told him to.
+- The Engineer separates Tux from Mina, trapping him in a clear cage so he doesn't interfere
+- This is where The Engineer plans to get rid of Mina himself (and the boss fight is initiated)
 
 ### Level 5
+- 
 
 ### Game End
