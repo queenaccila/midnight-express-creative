@@ -3,9 +3,15 @@
 
 ### Game Beginning
 - Mina has a "special ticket" for the Midnight Express, which is what caused the train to stop where Mina was
-- She got the ticket from a 
+- She got the ticket from __?
 
 ### Level 1
+**Tutorial: Environment Interaction**
+- Mina starts up an old ticket machine that has a pre-recorded message to scan her ticket
+- This is integrated with the actual combat tutorial
+
+**Tutorial: Basic Combat**
+
 
 ### Level 2
 
@@ -27,9 +33,10 @@
 - "It seems our esteemed guest has overstayed her welcome." - The Conductor says as he enters the amphitheatre
 
 **Pre-Boss Scene**
-- The Conductor takes Mina's ticket after one of the Chaperones took it from her.
+- 
 
 **Post-Boss Scene**
+- The Conductor takes Mina's ticket after one of the Chaperones took it from her.
 - The Conductor thought Mina was foolish and naive to think she has protection as a human passenger as long as she had that ticket
 - The Conductor rips the ticket into pieces, and Mina is shocked he has capabilities to think of doing that (as a robot with only one purpose)
 - Mina falls into a giant pit with the ticket pieces falling with her down below
@@ -48,7 +55,7 @@
 
 **Pre-Boss Scene**
 - Mina is following Tux as they're navigating through the large under-train system
-- She couldn't help but notice them passing by a giant room that looked like the main underground workings of the train, and it made her want to go inside, which was away from Tux
+- She couldn't help but notice them passing by a giant room that looked like the main underground workings of the train, and it made her want to go inside, which made her wander away from Tux
 - Tux didn't notice her getting left behind right away, and only noticed when he turned around, expecting her to be near her
 - When Tux sees Mina walking into the giant steam room, he panicked, and rushed after her
 - Mina enters the giant steam room, curious of what she was seeing, and Tux tried to stop her and push her to leave.
