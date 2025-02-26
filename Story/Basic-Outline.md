@@ -66,7 +66,23 @@
 
 ### Level 5
 **Before Level**
+- Mina and Tux escape the Engineer's area, and Mina sees Tux doesn't want to move from the shut door
+- Tux refuses to move, but Mina has to continue forward
+- Mina is in the front train car, and she uses the Engineer's key to do an emergency shutdown
+- A shadow shows up, and Mina turns around to defend herself from The Conductor who almost killed her from behind
+- The Conductor is clearly disheveled and unstable, as the train was practically falling apart and growing chaotic by the second
+- Mina pushes him off, to which his back hits an emergency button than opens up the windows and latches on theh front car
+- The Conductor gets ejected out of the front car and flies out of the train while Mina is holding onto the ladder that goes to the top of the train
+
+**Pre-Boss Scene**
+- Mina peeks up to the top of the train to see Tux was pulling the brakes on each train car, and she climbs up to meet up with him
+- Tux sees Mina coming to him, but he freaks out when he sees a giant shadow appear behind Mina
+- Mina was unsure why he was freaking out, and turns around to see The Conductor barely climbing back up on top of the train
+- The Conductor is completely unstable, and is going into an emergency defense mode as a desperate attempt to kill Mina
+
+**Post-Boss Scene**
 - 
 
 ### Game End
-- Tux becomes the new conductor for Midnight Express, but 
+- Mina has to be the one to shut down the Conductor with the key the Engineer gives her, but she isn't happy doing it when she hears the Conductor begging to not shut him down
+- Tux becomes the new conductor for Midnight Express
