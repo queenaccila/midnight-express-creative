@@ -65,6 +65,8 @@
 - This is where The Engineer plans to get rid of Mina himself (and the boss fight is initiated)
 
 ### Level 5
+**Before Level**
 - 
 
 ### Game End
+- Tux becomes the new conductor for Midnight Express, but 
