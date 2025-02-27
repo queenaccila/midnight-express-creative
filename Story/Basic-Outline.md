@@ -3,86 +3,24 @@
 
 ### Game Beginning
 - Mina has a "special ticket" for the Midnight Express, which is what caused the train to stop where Mina was
-- She got the ticket from __?
 
 ### Level 1
-**Tutorial: Environment Interaction**
-- Mina starts up an old ticket machine that has a pre-recorded message to scan her ticket
-- This is integrated with the actual combat tutorial
-
-**Tutorial: Basic Combat**
-
+- 
 
 ### Level 2
-
-**Pre-Boss Scene**
-- The Porter sees Mina has a ticket, but gets confused since she's not on the registry
 - 
-
-**Post-Boss Scene**
-- Mina gets access to the ticket logs, where she finds out her ticket had been manually issued, unsure of who did it
-- It jumps to a new scene, where The Conductor can see Mina through faint traces of the Midnight Express insignia throughout the train.
-- His star eyes glow in the dark room of the front train car interior
 
 ### Level 3
-**Before Level**
-- There's a simple train jingle that's heard as Mina re-enters main train car
-- This is followed by an announcement by the Conductor on the overcom, saying a guest has been tampering with the train's system
-- The Chaperones (aka swans) start to become hostile, which introduces them as a new enemy type
-
-- "It seems our esteemed guest has overstayed her welcome." - The Conductor says as he enters the amphitheatre
-
-**Pre-Boss Scene**
-- The Conductor 
-
-**Post-Boss Scene**
-- The Conductor takes Mina's ticket after one of the Chaperones took it from her.
-- The Conductor thought Mina was foolish and naive to think she has protection as a human passenger as long as she had that ticket
-- The Conductor rips the ticket into pieces, and Mina is shocked he has capabilities to think of doing that (as a robot with only one purpose)
-- Mina falls into a giant pit with the ticket pieces falling with her down below
-
-### Level 4
-**Before Level**
-- To transition into this level, Mina is passed out and injured
-- Mina sees a blurry figure looming over Tux, and a faint voice asking Tux about who this girl is
-- The faint voice tells Tux to get rid of her despite Tux begging him to keep her alive
-- The Engineer warns Tux to get rid of her, or he's going to do it himself
-- She passes out and sees faint red eyes glowing (hinting it's The Engineer)
-
-**Throughout Level**
-- Mina follows Tux through the underground system, wondering where he was going and if he was trying to hide her from something
-- She notices the insignias are purposely covered up (The Engineer doesn't want The Conductor's eyes in his personal space)
-
-**Pre-Boss Scene**
-- Mina is following Tux as they're navigating through the large under-train system
-- She couldn't help but notice them passing by a giant room that looked like the main underground workings of the train, and it made her want to go inside, which made her wander away from Tux
-- Tux didn't notice her getting left behind right away, and only noticed when he turned around, expecting her to be near her
-- When Tux sees Mina walking into the giant steam room, he panicked, and rushed after her
-- Mina enters the giant steam room, curious of what she was seeing, and Tux tried to stop her and push her to leave.
-- Mina and Tux are about to leave the room, but the giant door shuts them in
-- The Engineer appears, getting furious at Tux for not getting rid of her like he told him to.
-- The Engineer separates Tux from Mina, trapping him in a clear cage so he doesn't interfere
-- This is where The Engineer plans to get rid of Mina himself (and the boss fight is initiated)
-
-### Level 5
-**Before Level**
-- Mina and Tux escape the Engineer's area, and Mina sees Tux doesn't want to move from the shut door
-- Tux refuses to move, but Mina has to continue forward
-- Mina is in the front train car, and she uses the Engineer's key to do an emergency shutdown
-- A shadow shows up, and Mina turns around to defend herself from The Conductor who almost killed her from behind
-- The Conductor is clearly disheveled and unstable, as the train was practically falling apart and growing chaotic by the second
-- Mina pushes him off, to which his back hits an emergency button than opens up the windows and latches on theh front car
-- The Conductor gets ejected out of the front car and flies out of the train while Mina is holding onto the ladder that goes to the top of the train
-
-**Pre-Boss Scene**
-- Mina peeks up to the top of the train to see Tux was pulling the brakes on each train car, and she climbs up to meet up with him
-- Tux sees Mina coming to him, but he freaks out when he sees a giant shadow appear behind Mina
-- Mina was unsure why he was freaking out, and turns around to see The Conductor barely climbing back up on top of the train
-- The Conductor is completely unstable, and is going into an emergency defense mode as a desperate attempt to kill Mina
-
-**Post-Boss Scene**
 - 
 
+### Level 4
+- 
+
+### Level 5
+- The Conductor falls off of the train as the Midnight Express moves along the side of a mountain
+- It's not confirmed if he died
+
 ### Game End
-- Mina has to be the one to shut down the Conductor with the key the Engineer gives her, but she isn't happy doing it when she hears the Conductor begging to not shut him down
-- Tux becomes the new conductor for Midnight Express
+- The sun fianlly rises to indicate it's morning
+- "Where to next?" - Mina
+- *credits roll*
