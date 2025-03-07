@@ -16,12 +16,12 @@
 | Mina | Determined |
 | Tux | Curious |
 | The Porter | Timid |
-| The Engineer | Angry |
+| The Engineer | Intimidating |
 | The Conductor | Possessive |
 
 ## Memorable/Cool Scene Ideas
 Mina
--  
+- Successfully parries The Engineer's attack, causing him to stumble
 
 Tux
 - 
@@ -30,7 +30,8 @@ The Porter
 - 
 
 The Engineer
-- He uses his red tinted goggles in a dark light to show a
+- He uses his red tinted goggles in a dark light to show a more menacing/scary tone
+- There are hints of him throughout the train that he's another set of eyes watching Mina and subtlely helping her
 
 The Conductor
 - 
