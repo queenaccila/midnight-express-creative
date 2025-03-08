@@ -49,3 +49,4 @@ The Conductor
 - Tux is made to be curious, which is one of the  of the Midnight Express
 - “You were never here to take the train from him,” he says. “You were here to lead it forward.” - The Engineer
 - The Conductor creates a self-fulfilling prophecy, where he realizes he is replaceable and tries to take multiple measures to prevent this from ever happening. Doing this, however, only stregthends the idea that Mina will replace him.
+    - The main thing that solidifies it is when The Conductor is trying so hard to keep the train running to a specific destination. But the closer the destination the train reaches, the more Mina is becoming worthy as a conductor.

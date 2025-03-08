@@ -9,7 +9,11 @@
 - The Porter sees Mina and tries to hide from the sudden intrusion. He calls out the robots helping with the cargo as he goes further into the back car.
 
 ### Level 2
-- 
+- The Porter goes to the back car and gets scared when he sees The Conductor
+- The Porter gets scared but tries to reason and tells him he didn't know he's a human
+    - "You were let her in?"
+    - "I-I didn't know she was a human! She must've snuck in-"
+    - "Get her out of this train. Now. I don't care that "
 
 ### Level 3
 - Mina was shocked to see The Conductor didn't even want her here at all
