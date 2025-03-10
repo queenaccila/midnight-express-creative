@@ -26,7 +26,7 @@
 
 **Mina:** Wait!
 
-[The Porter runs off and closes the door to the back car.]
+[The Porter runs off and shuts the door to the back car.]
 
 ---
 

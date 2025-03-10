@@ -41,6 +41,7 @@ The Conductor
 
 ### Other Notes
 - **Main theme:** *Fear of Change vs. Embracing the Future*
+- The Conductor is the one who sent Mina to come here so he can prove that he's the only conductor the Midnight Express needs.
 - The Porter becomes more accepting of Mina after they fight, and Mina has to "recalibrate" him so he can see Mina isn't a threat to the train
 - The Porter himself is more timid compared to The Conductor and The Engineer. He was scared of the consequences of helping an outsider, but he got the courage to help Mina because he can't ignore her potential
 - The Conductor slowly feels more and more threatened by Mina when some of the robots in the train are being more friendly towards her and refusing to listen to him
@@ -50,3 +51,4 @@ The Conductor
 - “You were never here to take the train from him,” he says. “You were here to lead it forward.” - The Engineer
 - The Conductor creates a self-fulfilling prophecy, where he realizes he is replaceable and tries to take multiple measures to prevent this from ever happening. Doing this, however, only stregthends the idea that Mina will replace him.
     - The main thing that solidifies it is when The Conductor is trying so hard to keep the train running to a specific destination. But the closer the destination the train reaches, the more Mina is becoming worthy as a conductor.
+- The Engineer tells Mina that countless other humans that were given tickets were given the test of being the new conductor, but none of them ever passed. The Conductor feels more threatened by Mina because she's a lot stronger than he anticipated.
