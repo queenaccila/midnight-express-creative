@@ -26,4 +26,5 @@
 ### Game End
 - The sun finally rises to indicate it's morning
 - "Where to next?" - Mina
-- *credits roll*
+
+[CREDITS ROLL]
