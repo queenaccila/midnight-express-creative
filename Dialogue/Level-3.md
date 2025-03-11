@@ -1,9 +1,9 @@
 # Level 3 Dialogue
 
-### Introduction
+### Introduction To The Chaperones
 <u>LOCATION - AMPHITHEATRE (aka stage 2)</u>
 
-
+**The Conductor:** I hope you will enjoy your stay.
 
 ---
 
@@ -28,6 +28,8 @@
 
 ### Post-Boss Scene
 <u>LOCATION - AMPHITHEATURE cont.</u>
+
+**The Conductor:** 
 
 **The Conductor:** Goodbye, Mina.
 

@@ -1,7 +1,7 @@
 # Level 2 Dialogue
 
 ### Before Level Starts
-LOCATION - BACK CAR ROOM
+<u>LOCATION - BACK CAR ROOM</u>
 
 [The Porter enters the back car room in a panic. He shuts the door and gives a brief sigh of relief.]
 
@@ -41,7 +41,7 @@ SCENE FADES TO BLACK
 ---
 
 ### Upgrade Shop Preview
-LOCATION - MIDDLE CAR ROOM TOWARDS THE BACK
+<u>LOCATION - MIDDLE CAR ROOM TOWARDS THE BACK</u>
 
 [Mina sees a small lit shop, and walks closer to it out of curiousity]
 
