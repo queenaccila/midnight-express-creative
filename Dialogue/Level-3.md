@@ -3,7 +3,9 @@
 ### Introduction To The Chaperones
 <u>LOCATION - AMPHITHEATRE (aka stage 2)</u>
 
-**The Conductor:** I hope you will enjoy your stay.
+**The Conductor:** 
+
+[The Chaperones turn aggressive, and they face Mina, ready to fight her]
 
 ---
 

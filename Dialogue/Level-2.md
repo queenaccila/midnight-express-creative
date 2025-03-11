@@ -24,7 +24,7 @@
 
 [The Conductor raises his head back and slowly turns away from The Porter.]
 
-**The Conductor:** That only will make the train late for our next stop. Not only is there a human here, but now the train might be running late because of your incompetence.
+**The Conductor:** That only will make the train late for our next stop. Not only is there a human here, but now your incompetence is putting us behind schedule.
 **The Porter:** I'm sorry! Security is not what I was made for! Besides, isn't that supposed to be *his* job?
 **The Conductor:** It does not matter whose job it is. You will get rid of that human and you will clean up this mess.
 
@@ -34,7 +34,9 @@
 
 [The Conductor opens the door and leaves the room.]
 
-[The Porter stands there, giving a moment of conflict expression]
+**The Porter:** [quietly to himself] What have I done?
+
+[He hesitates, looking around the room with uncertainty.]
 
 SCENE FADES TO BLACK
 
@@ -56,4 +58,28 @@ SCENE FADES TO BLACK
 ---
 
 ### Pre-Boss Scene
+<u>LOCATION - BACK CAR ROOM</u>
+
+[Mina enters the back of the car, and she sees cargo moving around. The hum of the train and the mechanical conveyor belts were heard.]
+
+[Suddenly, a small drop is heard. The Porter accidentally knocked over a small box, and hid away when he saw Mina spotted her.]
+
+**The Porter:** [nervously] M-Mina...you need to leave.
+**Mina:** I can't. Not after trying so hard to get here.
+**The Porter:** But you don't understand! The Conductor doesn't want you here. He's doing this for a reason! You can't just-
+**Mina:** I know The Conductor ordered you to stop me, but I can't just give up now.
+**The Porter:** N-no! You can't be here! I won't let you!
+
+[The Porter's tone starts to get more erratic, and gets more anxious by the minute.]
+
+[The Porter starts to get in a more defensive mechanism, getting ready to fight.]
+
+**The Porter:** I'm sorry Mina, but I have to stop you.
+
+**Mina:** Very well then. I'll fight back with what I've got!
+
+SCENE FADES TO BLACK
+
+---
+
 
