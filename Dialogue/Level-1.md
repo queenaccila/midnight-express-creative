@@ -36,4 +36,6 @@
 
 [The back car door reopens after Mina uses the key that got dropped by one of the enemies.]
 
+**Mina:** I guess this is the only way of getting some answers of whatever is going on...
+
 ---

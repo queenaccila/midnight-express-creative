@@ -3,7 +3,7 @@
 ### Introduction To The Chaperones
 <u>LOCATION - AMPHITHEATRE (aka stage 2)</u>
 
-**The Conductor:** 
+**The Conductor:** What makes you worthy of being the next conductor?
 
 [The Chaperones turn aggressive, and they face Mina, ready to fight her]
 
@@ -31,8 +31,17 @@
 ### Post-Boss Scene
 <u>LOCATION - AMPHITHEATURE cont.</u>
 
-**The Conductor:** 
+
 
 **The Conductor:** Goodbye, Mina.
 
 [Mina is in shock that The Conductor knows her name.]
+
+**Mina:** How did you know-
+
+[The Conductor gives one final push using the blunt of his sword sheathe towards Mina, pushing her into the pit and losing her balance by falling into the pit below.]
+
+**Mina:** aaaAHHHH!!!
+
+[The Conductor looks into the pit, and sees Mina falling. He walks away, thinking Mina wouldn't make that fall.]
+
