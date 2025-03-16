@@ -77,6 +77,10 @@ SCENE FADES TO BLACK
 
 **Mina:** Very well then. I'll fight back with what I've got!
 
+
+
+[DISPLAY BOSS TITLE CARD]
+
 SCENE FADES TO BLACK
 
 ---

@@ -53,7 +53,15 @@ The Conductor
     - The main thing that solidifies it is when The Conductor is trying so hard to keep the train running to a specific destination. But the closer the destination the train reaches, the more Mina is becoming worthy as a conductor.
 - The Engineer tells Mina that countless other humans that were given tickets were given the test of being the new conductor, but none of them ever passed. The Conductor feels more threatened by Mina because she's a lot stronger than he anticipated.
     - Mina is unsure if she's strong enough to fight the Conductor, given how she lost to him and his tricks.
-- The Conductor gets hit and pushed by a giant laser beam
+- The Conductor gets hit and pushed by a giant laser beam in the end?
 - The Engineer's fight is made to help push Mina's limits rather than kill her. It's made to help her understand what it truly means to be the conductor of the Midnight Express.
     - In the actual game the player learns how to parry (a new move) and how to properly dodge (a previous unlocked move)
     - Being the conductor isn't about being the strongest, but rather knowing when to fight, when to guide, and when to stand her ground
+- Mina is someone who wants to protect and help, but she looks at things one-dimensionally and not looking at other ways of how something can work or be resolved. AKA she doesn't broaden her perspective or is open-minded.
+    - This is a mirror of the Conductor as he only views things one way.
+    - Mina uses everything she's learned (both attack and defense) to overcome the Conductor's fight, which shows she's changed while the Conductor is still stuck in his ways.
+- Boss fight game designs:
+    - The Porter - Test the basics of the combat system, more focus on attacks than defense
+    - The Conductor (level 3) - Test the combat system further, mainly through more air attacks or harder moves to implement
+    - The Engiener - Test the defense moves (dodging and parrying) and how to time attacks properly
+    - The Conductor (level 5) - Test everything the player has learned from the past several levels

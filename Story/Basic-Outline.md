@@ -17,7 +17,8 @@
 - She thought The Conductor had sent her
 
 ### Level 4
-- The Engineer is revealed to be the one who sent the ticket out, not the Conductor
+- The Engineer challenges Mina to fight. Mina thought he's trying to get rid of her like The Conductor, but he's there to push her limits and help her grow
+- Mina (in-game) learns how to parry, and she learns how to properly dodge The Engineer's attacks.
 
 ### Level 5
 - The Conductor falls off of the train as the Midnight Express moves along the side of a mountain
