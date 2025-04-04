@@ -1,12 +1,60 @@
 # Level 1 Dialogue
 
+### Beginning Scene :white_check_mark:
+
+[Mina is traveling far to this train station]
+
+[Credits roll through the sky]
+
+[She holds the ticket up, and the ticket has a stamp of the Midnight Express emblem. She lowers the ticket, and it shows the train station with the emblem in the scene]
+
+[A new shot shows Mina getting ready to walk into the station]
+
+### Arriving At The Station :white_check_mark:
+
+**Game Text:** Use [movement] to move around
+
+**Game Text:** Use [camera] to move the camera
+
+[Player goes up to elevated platform]
+
+**Game Text:** Press [jump] to jump. Press [jump] twice to double jump.
+
+[Player arrives to the station]
+
+**Mina:** Finally here. Let's see if this trip was worth it.
+
 ### Ticket Machine
+
+[Cutscene starts where the camera shows the giant train station interior]
+
+**Mina:** Woah! This place is so grand! [changing to an underwhelmed tone] ...And empty.
+
+**Mina:** I wonder why no one is here? I thought the Midnight Express 
+
+**Mina:** There 
+
+[Interactive tutorial starts]
+
+**Game Text:** Press [interact] to open inventory
+
+[Player opens inventory]
+
+**Game Text:** You can use [arrows] to navigate between item slots.
+
+**Game Text:** Once the item is highlighted, press [confirm] to select the item.
+
+**Game Text:** Select the ticket.
+
+[Player selects ticket]
 
 [Mina puts a ticket in the machine. A small jingle starts and an automated voice speaks from the machine.]
 
 [The automated machine is in The Conductor's voice]
 
 **Automated Machine:** Ticket verified. Welcome aboard! Please enjoy your journey on the Midnight Express. Your adventure awaits!
+
+**Automated Machine:** The train will be arriving at 12:01 AM. Please wait on the platform.
 
 ---
 
