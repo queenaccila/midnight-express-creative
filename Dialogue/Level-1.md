@@ -28,11 +28,15 @@
 
 [Cutscene starts where the camera shows the giant train station interior]
 
-**Mina:** Woah! This place is so grand! [changing to an underwhelmed tone] ...And empty.
+**Mina:** Woah! This place is so grand! [changing to an underwhelmed tone] And...empty.
 
-**Mina:** I wonder why no one is here? I thought the Midnight Express 
+**Mina:** I guess that's probably what happens if this train only takes passengers at midnight.
 
-**Mina:** There 
+**Mina:** Well, I should try to at least get my ticket checked in before the train arrives.
+
+**Mina:** The ticket machine must be around here somewhere...
+
+[Player looks for the ticket machine in the area]
 
 [Interactive tutorial starts]
 
@@ -54,7 +58,11 @@
 
 **Automated Machine:** Ticket verified. Welcome aboard! Please enjoy your journey on the Midnight Express. Your adventure awaits!
 
-**Automated Machine:** The train will be arriving at 12:01 AM. Please wait on the platform.
+**Automated Machine:** The train will be arriving at 12:01 AM. Please wait on the platform. We apologize for the delay.
+
+**Mina:** Only a minute late?
+
+**Mina:** Man, I'd kill for a train being this early.
 
 ---
 
