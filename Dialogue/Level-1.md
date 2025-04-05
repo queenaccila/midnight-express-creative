@@ -24,7 +24,7 @@
 
 **Mina:** Finally here. Let's see if this trip was worth it.
 
-### Ticket Machine
+### Ticket Machine :white_check_mark:
 
 [Cutscene starts where the camera shows the giant train station interior]
 
@@ -60,36 +60,40 @@
 
 **Automated Machine:** The train will be arriving at 12:01 AM. Please wait on the platform. We apologize for the delay.
 
-**Mina:** Only a minute late?
-
 ---
 
-### Entering The Train
+### Entering The Train :white_check_mark:
 
 [Mina enters the main train room. She takes in the view of the vast interior of the train compared to how it looked on the outside.]
 
 [The Porter enters the room, occupied with surrounding robots and delivering packages. He initially sees Mina and ignores her, but takes a second look to realize he doesn't recognize her.]
 
 **The Porter:** Who are you?! What are you doing here?!
-**Mina:** My name is Mina. I'm supposed to be the new conductor-
-**The Porter:** 
 
-**Mina:** I was sent a ticket to board. I'm here to help run the train.
+**Mina:** Oh! You scared me!
+
+**Mina:** My name is Mina. I'm supposed to be the new conductor-
+
+**The Porter:** New conductor? That can't be right...
+
+**Mina:** I was sent a ticket to board. Look, this ticket here is what got the train to make a stop here.
 
 [The Porter backs away, growing anxious and looking around, as if eyes are watching him.]
 
-**The Porter:** No-no-no, that can't be! The Conductor has always been in charge! You shouldn't be here!
+**The Porter:** No-no-no, this can't be! The Conductor has always been in charge! You shouldn't be here!
 
 **Mina:** Wait!
 
 [The Porter runs off and shuts the door to the back car.]
 
+[The alarm goes off, shocking Mina and seeing enemies spawned in.]
+
 ---
 
-### After Combat Tutorial
+### After Combat Tutorial :white_check_mark:
 
 [The back car door reopens after Mina uses the key that got dropped by one of the enemies.]
 
-**Mina:** I guess this is the only way of getting some answers of whatever is going on...
+**Mina:** I better be finding some answers of whatever is going on...
 
 ---
