@@ -62,8 +62,6 @@
 
 **Mina:** Only a minute late?
 
-**Mina:** Man, I'd kill for a train being this early.
-
 ---
 
 ### Entering The Train
