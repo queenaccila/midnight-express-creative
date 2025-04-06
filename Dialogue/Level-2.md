@@ -92,28 +92,40 @@ SCENE FADES TO BLACK
 
 ---
 
-### Pre-Boss Scene
+### Pre-Boss Scene 
 <u>LOCATION - BACK CAR ROOM</u>
 
-[Mina enters the back of the car, and she sees cargo moving around. The hum of the train and the mechanical conveyor belts were heard.]
+**Mina:** No more running. I need answers.
 
-[Suddenly, a small drop is heard. The Porter accidentally knocked over a small box, and hid away when he saw Mina spotted her.]
+**The Porter:** A-ah!!
 
-**The Porter:** [nervously] M-Mina...you need to leave.
+**The Porter:** Listen, I-I don't want to hurt you!
 
-**Mina:** Look, I don't know what's going on, but I can't just leave without an explanation.
+**Mina:** I don't either. But I need you to give me some answers.
 
-**The Porter:** You don't understand! The Conductor doesn't want you here. He's doing this for a reason! You can't just-
+**Mina:** At least tell me what's going on. Why am I not wanted here when there was a planned ticket for me?
 
-**Mina:** I know The Conductor ordered you to stop me, but I can't give up now.
+**The Porter:** I-I don't know! I just follow protocols!
 
-[The Porter gets more erratic, and gets more anxious by the minute.]
+**The Porter:** All he told me was to get you off of the train. By any means necessary.
 
-[The Porter starts to get in a more defensive mechanism, getting ready to fight.]
+**Mina:** Who is "he"? The current conductor?
 
-**The Porter:** I'm sorry Mina, but I have to stop you.
+[The camera rotates to face Mina and blinks red, and The Porter is worried.]
 
-**Mina:** Very well then. I'll fight back with what I've got!
+**The Porter:** If you don't listen to me, both of us are going to be gone by him!
+
+**Mina:** Shouldn't he at least stop the train? So I can get off the train safely?
+
+**The Porter:** The Conductor doesn't want to make any more delays unfortunately.
+
+**The Porter:** 
+
+**Mina:** (Some conductor this guy is...)
+
+[The equipment powers on, with the cargo ready to swing or fall onto Mina.]
+
+**The Porter:** Please forgive me...I have no choice.
 
 [DISPLAY BOSS TITLE CARD]
 
@@ -121,4 +133,19 @@ SCENE FADES TO BLACK
 
 ---
 
+### Post-Boss Scene
+<u>LOCATION - BACK CAR ROOM</u>
 
+[The Porter gets knocked back, and he can barely stand.]
+
+[]
+
+[The cameras all lock onto Mina. The speaker goes off.]
+
+**???:** What a shame. The Porter has always been one of the best Midnight Express bots.
+
+**???:** I now have to reorganize the storage and cargo systems, thanks to you.
+
+**Mina:**
+
+**???:** He is all packaged so he will be delivered to our next stop, where he'll be sent to work on another train.

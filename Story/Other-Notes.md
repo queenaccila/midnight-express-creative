@@ -66,3 +66,4 @@ The Conductor
     - The Engiener - Test the defense moves (dodging and parrying) and how to time attacks properly
     - The Conductor (level 5) - Test everything the player has learned from the past several levels
 - The Conductor is particularly pissed off of Mina delaying everything, as they're doing a shipment of avocadoes and other various exotic fresh produce to the capital, so they are on both a time limit and making sure the produce stays in good quality within that time limit.
+- The Porter boss fight involves a packaging machine, and Mina has to push him in it as part of the actual boss fight
