@@ -136,28 +136,58 @@ SCENE FADES TO BLACK
 ### Post-Boss Scene
 <u>LOCATION - BACK CAR ROOM</u>
 
+[The battle ends. The Porter sparks and whirs before collasping into a luggage.]
+
+[The luggage rattles, and pops out The Porter in a smaller key-like form, showing his weakened state.]
+
+[Mina cautiously approaches]
+
+**Mina:** Are you...okay?
+
+**The Porter:** Systems… critical. No longer fit for service. Preparing for shipment to recycling hub.
+
+**Mina:** Recycling?! But you didn't need to-
+
+**The Porter:** It's protocol. I failed. The train - especially *him* - doesn't tolerate errors.
+
 [The cameras all lock onto Mina. The speaker goes off.]
 
-**???:** What a shame. The Porter has always been one of the best Midnight Express bots.
+**???:** What a shame. The Porter has always been one of the most efficient units on the Midnight Express.
 
-**???:** I now have to reorganize the storage and cargo systems, thanks to you.
+**???:** I now have to reorganize the entire cargo system myself, thanks to you.
 
 **Mina:** Huh?? Who are you?
 
-**???:** Who I am should not matter to those who threaten to replace me and my position.
+**???:**  Who I am should not matter to those who show up uninvited, disrupt operations, and threaten my position.
 
 **Mina:** Your position? Then you must be-
 
-**???:** 
+**???:** You may hold a ticket, but it was not authorized by me. 
 
-[The cameras turn off, leaving Mina alone in the room.]
+[The cameras turn off, leaving Mina alone in the room with the weakened Porter.]
 
-**Mina:** (It doesn't sound like he got the memo I would even be here, let alone take over his job...)
+**Mina:** He didn’t know I was coming… No one told him?
 
-**Mina:** (No wonder why the entire train is so hostile towards me even with my ticket.)
+**Mina:** No wonder why everything’s been hostile. Even with my ticket, I’m still seen as a threat.
 
-**Mina:** I should probably head back to the main train car.
+[The Porter flashes a small blinker light, trying to get Mina's attention.]
 
-**Mina:** I have a feeling this man is not gonna be happy to see me...
+**The Porter:** Mina...
+
+[Mina turns around and kneels beside The Porter.]
+
+**The Porter:** Let me help you while I still can.
+
+**Mina:** You're not worried about getting in more trouble?
+
+**The Porter:** I'm already boxed and ready for disposal. As far as he’s concerned, I’ve been... removed from service.
+
+**The Porter:** Whether you're here as the new conductor or not, the Midnight Express was designed to welcome its passengers—not attack them.
+
+**The Porter:** I don’t know why everything's changed... but someone should be on your side.
+
+**Mina:** Thank you. I'm going to figure this out.
+
+**Mina:** And I'll make sure you're not just thrown away.
 
 SCENE FADES TO BLACK
