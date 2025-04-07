@@ -92,40 +92,22 @@ SCENE FADES TO BLACK
 
 ---
 
-### Pre-Boss Scene 
+### Pre-Boss Scene :white_check_mark:
 <u>LOCATION - BACK CAR ROOM</u>
 
-**Mina:** No more running. I need answers.
+**The Porter:** Halt! Unauthorized passenger detected! You should not be here!
 
-**The Porter:** A-ah!!
+**Mina:** I have a ticket, and I just want answers.
 
-**The Porter:** Listen, I-I don't want to hurt you!
+**Mina:** I'm not here to hurt you.
 
-**Mina:** I don't either. But I need you to give me some answers.
+**The Porter:** It doesn't matter. I can't let you go any further.
 
-**Mina:** At least tell me what's going on. Why am I not wanted here when there was a planned ticket for me?
+**The Porter:** I was given orders to stop you, by any means necessary.
 
-**The Porter:** I-I don't know! I just follow protocols!
+[The equipment powers on, and the alarm blares with the cargo ready to swing or fall onto Mina.]
 
-**The Porter:** All he told me was to get you off of the train. By any means necessary.
-
-**Mina:** Who is "he"? The current conductor?
-
-[The camera rotates to face Mina and blinks red, and The Porter is worried.]
-
-**The Porter:** If you don't listen to me, both of us are going to be gone by him!
-
-**Mina:** Shouldn't he at least stop the train? So I can get off the train safely?
-
-**The Porter:** The Conductor doesn't want to make any more delays unfortunately.
-
-**The Porter:** 
-
-**Mina:** (Some conductor this guy is...)
-
-[The equipment powers on, with the cargo ready to swing or fall onto Mina.]
-
-**The Porter:** Please forgive me...I have no choice.
+**The Porter:** I’m sorry...I have to do this. It’s nothing personal.
 
 [DISPLAY BOSS TITLE CARD]
 
@@ -133,7 +115,7 @@ SCENE FADES TO BLACK
 
 ---
 
-### Post-Boss Scene
+### Post-Boss Scene :white_check_mark:
 <u>LOCATION - BACK CAR ROOM</u>
 
 [The battle ends. The Porter sparks and whirs before collasping into a luggage.]
@@ -144,7 +126,7 @@ SCENE FADES TO BLACK
 
 **Mina:** Are you...okay?
 
-**The Porter:** Systems… critical. No longer fit for service. Preparing for shipment to recycling hub.
+**The Porter:** Systems...critical. No longer fit for service. Preparing for shipment to recycling hub.
 
 **Mina:** Recycling?! But you didn't need to-
 
@@ -162,11 +144,17 @@ SCENE FADES TO BLACK
 
 **Mina:** Your position? Then you must be-
 
-**???:** You may hold a ticket, but it was not authorized by me. 
+**???:** That invitation was processed without my oversight, a clerical error I should have caught.
+
+**???:** And now here you are, playing a role that was never yours to begin with.
+
+**???:** If you insist on continuing this performance, then I expect your arrival at the main car.
+
+**???:** Do not keep me waiting.
 
 [The cameras turn off, leaving Mina alone in the room with the weakened Porter.]
 
-**Mina:** He didn’t know I was coming… No one told him?
+**Mina:** That wasn’t an invitation...that was a challenge.
 
 **Mina:** No wonder why everything’s been hostile. Even with my ticket, I’m still seen as a threat.
 
@@ -180,11 +168,11 @@ SCENE FADES TO BLACK
 
 **Mina:** You're not worried about getting in more trouble?
 
-**The Porter:** I'm already boxed and ready for disposal. As far as he’s concerned, I’ve been... removed from service.
+**The Porter:** I'm already boxed up and ready for disposal. As far as he’s concerned, I’ve been...removed from service.
 
 **The Porter:** Whether you're here as the new conductor or not, the Midnight Express was designed to welcome its passengers—not attack them.
 
-**The Porter:** I don’t know why everything's changed... but someone should be on your side.
+**The Porter:** I don’t know why everything's changed...but someone should be on your side.
 
 **Mina:** Thank you. I'm going to figure this out.
 
