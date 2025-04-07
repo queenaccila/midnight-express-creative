@@ -136,16 +136,28 @@ SCENE FADES TO BLACK
 ### Post-Boss Scene
 <u>LOCATION - BACK CAR ROOM</u>
 
-[The Porter gets knocked back, and he can barely stand.]
-
-[]
-
 [The cameras all lock onto Mina. The speaker goes off.]
 
 **???:** What a shame. The Porter has always been one of the best Midnight Express bots.
 
 **???:** I now have to reorganize the storage and cargo systems, thanks to you.
 
-**Mina:**
+**Mina:** Huh?? Who are you?
 
-**???:** He is all packaged so he will be delivered to our next stop, where he'll be sent to work on another train.
+**???:** Who I am should not matter to those who threaten to replace me and my position.
+
+**Mina:** Your position? Then you must be-
+
+**???:** 
+
+[The cameras turn off, leaving Mina alone in the room.]
+
+**Mina:** (It doesn't sound like he got the memo I would even be here, let alone take over his job...)
+
+**Mina:** (No wonder why the entire train is so hostile towards me even with my ticket.)
+
+**Mina:** I should probably head back to the main train car.
+
+**Mina:** I have a feeling this man is not gonna be happy to see me...
+
+SCENE FADES TO BLACK
