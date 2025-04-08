@@ -3,22 +3,42 @@
 ### Introduction To The Chaperones
 <u>LOCATION - AMPHITHEATRE (aka stage 2)</u>
 
-**The Conductor:** You stepped onto my train, and it told me everything I needed to know.
+**The Conductor:** Welcome, to the Main Car of the Midnight Express.
 
-**The Conductor:** What makes you worthy of being the next conductor?
+**The Conductor:** It has been so long since we recieved a guest.
+
+[??? steps into the spotlight, revealing himself as The Conductor]
+
+**The Conductor:** Though, I do not believe you are one.
+
+**Mina:** (So it *is* the conductor...)
+
+**Mina:** I thought I was invited to help out as the new conductor.
+
+**The Conductor:** "Invited", she says...
+
+**The Conductor:** You’ve caused quite the disruption for someone who was “invited.” One broken Porter. Cargo routines scrambled. Unlocked cars without clearance...
+
+**The Conductor:** You’ve thrown my train into chaos, and we're only now just meeting each other.
+
+**The Conductor:** So now I ask you, Mina...
+
+**The Conductor:** Why were you invited to the Midnight Express in the first place?
 
 [The Chaperones turn aggressive, and they face Mina, ready to fight her]
+
+**Mina:** I-
+
+**Mina:** I don't even know...
+
+**The Conductor:** At last - honesty.
 
 ---
 
 ### Pre-Boss Scene
 <u>LOCATION - AMPHITHEATURE cont.</u>
 
-[Mina moves quickly when The Conductor's sword gets thrown onto the stage, which startles Mina.]
-
-**The Conductor:** That's enough!
-
-[The Conductor jumps down from the balcony seamlessly. He slowly pulls out his sword that was thrown onto the stage.]
+[The Conductor jumps down from the balcony seamlessly. He slowly pulls out his sword that was not seen before.]
 
 **The Conductor:** It seems that I must take care of things myself.
 

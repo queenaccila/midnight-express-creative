@@ -63,9 +63,17 @@ The Conductor
 - Boss fight game designs:
     - The Porter - Test the basics of the combat system, more focus on attacks than defense
     - The Conductor (level 3) - Test the combat system further, mainly through more air attacks or harder moves to implement
-    - The Engiener - Test the defense moves (dodging and parrying) and how to time attacks properly
+    - The Engineer - Test the defense moves (dodging and parrying) and how to time attacks properly
     - The Conductor (level 5) - Test everything the player has learned from the past several levels
 - The Conductor is particularly pissed off of Mina delaying everything, as they're doing a shipment of avocadoes and other various exotic fresh produce to the capital, so they are on both a time limit and making sure the produce stays in good quality within that time limit.
 - The Porter boss fight involves a packaging machine, and Mina has to push him in it as part of the actual boss fight
     - He turns into some kind of key that can unlock chests or boxes at the end, showing how weakened he's gotten
     - The key-like item also helps Mina unlock boxes and cargo in the area
+
+### Dialogue Notes (keep for later)
+- The Conductor: The truth is, Mina, I already knew you were coming.
+    - But I refused to believe it. I refused to believe a *human* could replace me.
+    - If a human is capable of what I was solely created for-
+    - What is the point of my existence?
+    - I should've known deep down that humans possess qualities I am never capable of experiencing.
+    - Change.
