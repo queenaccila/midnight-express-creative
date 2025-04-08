@@ -21,17 +21,29 @@
 
 **The Conductor:** You’ve thrown my train into chaos, and we're only now just meeting each other.
 
-**The Conductor:** So now I ask you, Mina...
+**The Conductor:** So I ask you, Mina...
 
-**The Conductor:** Why were you invited to the Midnight Express in the first place?
+**The Conductor:** Why were you even invited to the Midnight Express in the first place?
 
-[The Chaperones turn aggressive, and they face Mina, ready to fight her]
+[The Chaperones slowly lower and surround Mina]
 
 **Mina:** I-
 
 **Mina:** I don't even know...
 
-**The Conductor:** At last - honesty.
+**The Conductor:** At last — honesty.
+
+**The Conductor:** Everything is in disarray because of you. But yet here you stand, as if you are entitled to this train.
+
+**The Conductor:** How could you even dare to lead this train?
+
+**Mina:** ...
+
+**Mina:** I may not know why I was invited-
+
+**Mina:** But I'm not going to let this train to the ground.
+
+**The Conductor:** Let's see then if your actions can make up for your lack of conviction.
 
 ---
 
