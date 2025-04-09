@@ -77,3 +77,9 @@ The Conductor
     - What is the point of my existence?
     - I should've known deep down that humans possess qualities I am never capable of experiencing.
     - Change.
+
+(Level 5)
+- The Conductor: Don't waste your time with him. That man has a way of making people believe he knows what's best. But he doesn't.
+    - Mina: It sounds like you two have a pretty long history.
+    - The Conductor: We had an understanding, once. But that was a long time ago.
+    - The Conductor: There are some things on this train that are not meant to be changed. And he thought he could do just that.
