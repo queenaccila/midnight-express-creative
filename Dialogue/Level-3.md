@@ -13,17 +13,19 @@
 
 **Mina:** (So it *is* the conductor...)
 
-**Mina:** I thought I was invited to help out as the new conductor.
+**Mina:** I thought I was invited to help out. As the new conductor.
 
 **The Conductor:** "Invited", she says...
 
+**The Conductor:** How quaint.
+
 **The Conductor:** You’ve caused quite the disruption for someone who was “invited.” One broken Porter. Cargo routines scrambled. Unlocked cars without clearance...
 
-**The Conductor:** You’ve thrown my train into chaos, and we're only now just meeting each other.
+**The Conductor:** You’ve thrown my train into chaos.
 
 **The Conductor:** So I ask you, Mina...
 
-**The Conductor:** Why were you even invited to the Midnight Express in the first place?
+**The Conductor:** So tell me, Mina—why were you even invited in the first place?
 
 [The Chaperones slowly lower and surround Mina]
 
@@ -31,19 +33,9 @@
 
 **Mina:** I don't even know...
 
-**The Conductor:** At last — honesty.
+**The Conductor:** Hm, I expected as much.
 
-**The Conductor:** Everything is in disarray because of you. But yet here you stand, as if you are entitled to this train.
-
-**The Conductor:** How could you even dare to lead this train?
-
-**Mina:** ...
-
-**Mina:** I may not know why I was invited-
-
-**Mina:** But I'm not going to let this train to the ground.
-
-**The Conductor:** Let's see then if your actions can make up for your lack of conviction.
+**The Conductor:** I will be merciful this once. Since it seems you were not aware of the full extent of the conductor's role.
 
 ---
 
