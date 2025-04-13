@@ -129,5 +129,68 @@ The Engineer: I've seen machines with better timing!
 The Engineer: Heh. Didn't think you'd catch on so fast.
 
 ### Post-Boss Scene
-[the engineer has respect for mina]
-[the engineer is trying to ]
+<u>LOCATION - ENGINE ROOM (giant stage-like area with mechanical towers and spotlights)</u>
+
+[Mina pants, standing over The Engineer, who is on one knee]
+
+**The Engineer:** Alright, you win. Didn’t think you had it in you.
+
+[Mina lowers her sword, still catching her breath.]
+
+**The Engineer:** You fight like someone with something to prove.
+
+**The Engineer:** So tell me then, why are you really here?
+
+**Mina:** ...
+
+**Mina:** I didn’t have anything. No title, no name anyone remembered.  
+
+**Mina:** Then I got a ticket to this train in my hand out of nowhere. Like it was waiting for me.  
+
+**Mina:** For the first time, I thought...maybe I could *be* something.
+
+[The Engineer leans against a pipe, watching her.]
+
+**Mina:** I’ve been running from everything, and doubting every step.
+
+**Mina:** But I’m still here. I didn’t break.
+
+**Mina:** And maybe, that means I *can* do this.
+
+**The Engineer:** ...You're not bad.
+
+[He stands, dusts himself off.]
+
+**The Engineer:** Alright, one last thing, since you made it this far.
+
+**The Engineer:** Front of the train’s got a little secret. Dormant laser cannon. Buried in the old schematics.
+
+**The Engineer:** Conductor doesn’t talk about it. Acts like it doesn’t exist.  
+
+**The Engineer:** But it’s there. Waiting.
+
+**Mina:** !!
+
+**The Engineer:** He’s hiding more than you know.
+
+**The Engineer:** If you’re really gonna face him, it might be time you see the whole picture.
+
+[Tux beeps softly, tugging at Mina’s side.]
+
+**The Engineer:** Tux will guide you back up to the Main Car if you really think you’re ready—
+
+**The Engineer:** Don’t stop now.
+
+[Mina gives a small nod. She tightens her grip on her sword.]
+
+**Mina:** Thanks, for not holding back.
+
+**The Engineer:** Would’ve been a disservice if I did.
+
+[The lift behind him hisses to life. Mina steps onto it.]
+
+**The Engineer:** Show him what real willpower looks like.
+
+[The lift begins to rise.]
+
+**Mina:** I will.
