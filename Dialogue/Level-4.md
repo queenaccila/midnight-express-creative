@@ -163,17 +163,19 @@ The Engineer: Heh. Didn't think you'd catch on so fast.
 
 **The Engineer:** Alright, one last thing, since you made it this far.
 
-**The Engineer:** Front of the train’s got a little secret. Dormant laser cannon. Buried in the old schematics.
+**The Engineer:** Front of the train’s got a little secret. Dormant laser cannon, buried in the old schematics.
 
-**The Engineer:** Conductor doesn’t talk about it. Acts like it doesn’t exist.  
+**The Engineer:** Conductor doesn’t talk about it. Acts like it doesn’t exist.
 
-**The Engineer:** But it’s there. Waiting.
+[The Engineer hands Mina a key to the front room, and also is a switch to the laser cannon]
+
+**The Engineer:** Take this key. It'll get you to the front car where the laser is.
+
+**The Engineer:** Only The Conductor has access to this place, so be on the lookout for him.
 
 **Mina:** !!
 
-**The Engineer:** He’s hiding more than you know.
-
-**The Engineer:** If you’re really gonna face him, it might be time you see the whole picture.
+**Mina:** Thank you...
 
 [Tux beeps softly, tugging at Mina’s side.]
 
@@ -181,9 +183,11 @@ The Engineer: Heh. Didn't think you'd catch on so fast.
 
 **The Engineer:** Don’t stop now.
 
-[Mina gives a small nod. She tightens her grip on her sword.]
+**Mina:** I won't.
 
-**Mina:** Thanks, for not holding back.
+[She tightens her grip on her sword.]
+
+**Mina:** And thanks, for not holding back.
 
 **The Engineer:** Would’ve been a disservice if I did.
 
