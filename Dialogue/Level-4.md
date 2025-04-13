@@ -1,6 +1,6 @@
 # Level 4 Dialogue
 
-### Beginning Scene
+### Beginning Scene :white_check_mark:
 <u>LOCATION - UNDERCAR (dimly lit, mechanical ambience)</u>
 
 [Mina opens her eyes. She slowly she sits up and is still recovering.]
@@ -33,26 +33,101 @@
 
 [Mina looks down at her sword lying beside her. She hesitates, then grips it tightly and stands.]
 
-Mina: Alright, one step at a time.
+**Mina:** Alright, one step at a time.
 
 [She starts following Tux deeper into the undercar.]
 
-### Pre-Boss Scene
-[mina runs up to tux]
-[the engineer shots towards mina, barely missing her]
-[mina looks up to see the engineer]
-[the engineer is pissed off at mina, as she's been causing a ruckus from above and thought she was going to hurt tux next]
-[mina finds out tux is one of the engineer's creations]
-[she tries to tell the engineer he was helping her, but the engineer refused to listen]
-[tux "talks" to the engineer, convincing him to not hurt mina]
-[the engineer listens to tux, and reconsiders wanting to just get rid of her]
-[the engineer will give her one chance, to test and see if she's good enough as the new conductor]
-[mina has doubt, but tux beeps again, telling her (through the engineer translating) that she was amazing fighting like that up above]
-[the engineer hears all of this, and tries to convince her to fight him, especially since it's been a long time since he's fought a human]
+### Pre-Boss Scene :white_check_mark:
+<u>LOCATION - ENGINE ROOM (giant stage-like area with mechanical towers and spotlights)</u>
 
-### Boss Lines (in combat)
+[Mina rushes through the undercar, her sword in hand. She spots Tux ahead.]
 
+**Mina:** Tux!
+
+[Just as she reaches him, a sudden clang—a bolt of energy slams the ground next to her. She stumbles back, eyes snapping upward.]
+
+[A towering figure steps from the shadows above—The Engineer, eyes glowing, expression furious.]
+
+**The Engineer:** Stay away from him.
+
+[Mina freezes, still shielding Tux instinctively.]
+
+**The Engineer:** You've made a quite the mess of my systems. And now you're after my own creation?!
+
+**Mina:** No! He chose to help me! I didn’t hurt him—
+
+**Mina:** Wait, did you say your creation?
+
+**Tux:** Beep-beep-beep!
+
+[Tux steps in front of Mina, blinking up at the Engineer, chirping rapidly.]
+
+[The Engineer stares silently at him. A long pause.]
+
+**The Engineer:** ...You’re defending her?
+
+**Tux:** Beep-beep.
+
+[A small nod from Tux.]
+
+**The Engineer:** ...Hmph.
+
+**The Engineer:** You’re lucky he cares.
+
+**The Engineer:** But luck doesn’t get you far on this train.
+
+[He turns back to her, sharp and focused.]
+
+**The Engineer:** So here’s what we’ll do.
+
+[Sparks shoot up the sides of the room. The stage hums to life.]
+
+**The Engineer:** One test. Right here. Right now.
+
+**The Engineer:** Let’s see if you’re conductor material like what Tux claims you to be.
+
+[Mina falters slightly.]
+
+**Mina:** But...
+
+**Mina:** I’m not even sure what I am anymore...
+
+**Tux:** Beep!
+
+[He beeps encouragingly, jumping a little.]
+
+[The Engineer glances at him, then sighs.]
+
+**The Engineer:** He says you fought well up there. More than he’s seen in a long time.
+
+**Mina:** You said you 
+
+**Mina:** So...who even are you?
+
+**The Engineer:** I am The Engineer. I am the one who actually runs the systems. (not The Conductor)
+
+**The Engineer:** That is why I need to see your skills myself.
+
+[He powers up his arm.]
+
+**The Engineer:** Fight me, Mina.
+
+**The Engineer:** Let’s see if you can take the heat down here.
+
+### Boss Lines (in combat) :white_check_mark:
+
+<u>When Mina charges in and not defending</u>
+
+The Engineer: Keep charging in, and I'll keep knocking you down!
+
+The Engineer: Always rushing in. No wonder he overpowered you.
+
+The Engineer: I've seen machines with better timing!
+
+<u>When Mina successfully parries attacks for the first time</u>
+
+The Engineer: Heh. Didn't think you'd catch on so fast.
 
 ### Post-Boss Scene
-[]
 [the engineer has respect for mina]
+[the engineer is trying to ]
