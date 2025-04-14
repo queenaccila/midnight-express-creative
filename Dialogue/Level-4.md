@@ -149,8 +149,6 @@ The Engineer: Heh. Didn't think you'd catch on so fast.
 
 **Mina:** For the first time, I thought...maybe I could *be* something.
 
-[The Engineer leans against a pipe, watching her.]
-
 **Mina:** I’ve been running from everything, and doubting every step.
 
 **Mina:** But I’m still here. I didn’t break.
