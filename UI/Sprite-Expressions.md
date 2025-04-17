@@ -9,36 +9,34 @@ Ex: mina_neutral_t
 
 ### Mina
 <u>Talking (T)</u>
-1. Neutral
-2. Neutral 2
-3. Neutral 3
-4. Happy
-5. Surprised
-6. Sad
-7. Angry
-8. Thinking
-9. Concerned
-10. Scared
+~~1. Neutral~~
+~~2. Happy~~
+~~3. Surprised~~
+~~4. Sad~~
+~~5. Angry~~
+~~6. Thinking~~
+~~7. Concerned~~
 
 <u>No Talking (NT)</u>
-1. Neutral
-2. Surprised
-3. Sad
-4. Thinking
+~~1. Neutral~~
+~~2. Happy~~
+~~3. Surprised~~
+~~4. Sad~~
+~~5. Thinking~~
 
 ---
 
 ### The Porter
 <u>Talking (T)</u>
-1. Neutral
-2. Surprised
-3. Scared
-4. Concerned
-5. Sad
+~~1. Neutral~~
+~~2. Surprised~~
+~~3. Scared~~
+~~4. Concerned~~
+~~5. Sad~~
 
 <u>No Talking (NT)</u>
-1. Neutral
-2. Surprised
+~~1. Neutral~~
+~~2. Surprised~~
 
 ---
 
@@ -55,30 +53,30 @@ Ex: mina_neutral_t
 
 ### The Engineer
 <u>Talking (T)</u>
-1. Neutral
-2. Angry
-3. Stern
-4. Smug
+~~1. Neutral~~
+~~2. Angry~~
+~~3. Stern~~
+~~4. Smug~~
 5. Concerned
 
 <u>No Talking (NT)</u>
-1. Neutral
-2. Angry
+~~1. Neutral~~
+~~2. Angry~~
 
 ---
 
 ### The Conductor
 <u>Talking (T)</u>
-1. Neutral
-2. Stern
-3. Smug
-4. Angry
-5. Desperate
+~~1. Neutral~~
+~~2. Stern~~
+~~3. Smug~~
+~~4. Angry~~
+~~5. Desperate~~
 
 <u>No Talking (NT)</u>
-1. Neutral
-2. Stern
-3. Surprised
+~~1. Neutral~~
+~~2. Stern~~
+~~3. Surprised~~
 
 ---
 
