@@ -45,5 +45,3 @@
 ### Misc Pieces
 - [ ] Train
 - [ ] Upgrade shop corner
-    - [ ] Corner table
-    - [ ] Small tent cover
