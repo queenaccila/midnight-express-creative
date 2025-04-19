@@ -20,18 +20,18 @@
 - [ ] 
 
 ### Back Car
-- [ ] Cargo (red)
-- [ ] Cargo (blue)
-- [ ] Cargo (green)
-- [ ] Ladder
-- [ ] Stacked shelf
-- [ ] Balcony railing
-- [ ] Stairs railing
+- [x] Cargo (red)
+- [x] Cargo (blue)
+- [x] Cargo (green)
+- [x] Ladder
+- [x] Stacked shelf
+- [x] Balcony railing
+- [x] Stairs railing
 - [x] Pile of boxes
-- [ ] Organized shelf
-- [ ] Plain box
-- [ ] Hanging box
-- [ ] Door light
+- [x] Organized shelf
+- [x] Plain box
+- [x] Hanging box
+- [x] Door light
 
 ### Under Car
 - [ ] Primitive junk 1
