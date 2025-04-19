@@ -27,7 +27,7 @@
 - [ ] Stacked shelf
 - [ ] Balcony railing
 - [ ] Stairs railing
-- [ ] Pile of boxes
+- [x] Pile of boxes
 - [ ] Organized shelf
 - [ ] Plain box
 - [ ] Hanging box

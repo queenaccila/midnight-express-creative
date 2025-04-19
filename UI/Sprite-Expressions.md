@@ -40,14 +40,10 @@ Ex: mina_neutral_t
 
 ---
 
-### The Porter (key)
-<u>Talking (T)</u>
-1. Neutral
-2. Sad
-3. Determined
-
-<u>No Talking (NT)</u>
-1. Neutral
+### The Porter (bot)
+~~1. Neutral~~
+~~2. Sad~~
+~~3. Determined~~
 
 ---
 
@@ -80,16 +76,9 @@ Ex: mina_neutral_t
 
 ---
 
-### The Conductor (shadow)
-1. Neutral
-2. Angry
-3. Stern
-
----
-
 ### Tux
-1. Neutral
-2. Worried
-3. Surprised
-4. Happy
+~~1. Neutral~~
+~~2. Worried~~
+~~3. Surprised~~
+~~4. Happy~~
 5. Desperate
