@@ -30,13 +30,12 @@
 - [x] Door light
 
 ### Under Car
-- [ ] Primitive junk 1
-- [ ] Primitive junk 2
-- [ ] Primitive junk 3
+- [x] Primitive junk 1
+- [x] Primitive junk 2
+- [x] Primitive junk 3
 - [ ] Main fire mantle
-- [ ] Hanging chains
-- [ ] Structure pole
-- [ ] I metal bar
+- [x] Hanging chains
+- [x] I metal bar
 
 ### Misc Pieces
 - [ ] Train
